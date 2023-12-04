@@ -29,8 +29,9 @@ HTML Templates:
 Design HTML templates for the web application, including input forms and recommendation display pages. These templates enhance the user experience by presenting information in a clear and organized manner.
 In summary, collaborative filtering involves leveraging user preferences to recommend items. The collaborative filtering-based recommender system uses the popular dataset and applies similarity calculations to generate personalized book recommendations. The Flask web application facilitates user interaction, allowing individuals to input their preferences and receive tailored book suggestions.
 
+![3](https://github.com/AbhishekPawshekar/Books_Recommendation_System/assets/89447125/684687e3-fb72-4b75-9cfd-745c4ce54e6b)
 ![1](https://github.com/AbhishekPawshekar/Books_Recommendation_System/assets/89447125/509d4c10-0fe4-46bf-9464-219057728523)
 ![2](https://github.com/AbhishekPawshekar/Books_Recommendation_System/assets/89447125/09ee10d8-83e6-426a-9694-918726428eb6)
-![3](https://github.com/AbhishekPawshekar/Books_Recommendation_System/assets/89447125/684687e3-fb72-4b75-9cfd-745c4ce54e6b)
+
 
 
