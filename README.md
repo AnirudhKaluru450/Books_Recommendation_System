@@ -1,8 +1,4 @@
 # Books_Recommendation_System
-A books recommandation system  make by using data science  methodology and flask to create and display website. 
-Firstly download all the 3 dataset from kaggle website (books, user, ratings) then apply some methodologies of data science to clean and preprocessed the dataset and make 1 data set named popular dateset.
-
-# Collaborative Filtering-Based Recommender System:
 Dataset Acquisition:
 
 Obtain three datasets from Kaggle, including information about books, users, and ratings.
@@ -12,6 +8,10 @@ Employ data science methodologies to clean and preprocess the datasets. Handle m
 Popular Dataset Creation:
 
 Merge the cleaned datasets to form a unified dataset, referred to as the "popular dataset." This dataset focuses on books that have received a substantial number of ratings, ensuring a robust foundation for collaborative filtering.
+
+
+# Collaborative Filtering-Based Recommender System:
+
 User-Item Collaborative Filtering:
 
 Create a user-item matrix based on user ratings for books. This matrix represents user preferences and serves as the basis for collaborative filtering.
