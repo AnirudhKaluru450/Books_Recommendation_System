@@ -8,9 +8,9 @@ Created on Thu Nov 16 20:53:38 2023
 import pandas as pd 
 import numpy as np
 #load dataset
-books=pd.read_csv(r"E:\Data Science Lecture\DataScience_Project\Books.csv")
-ratings=pd.read_csv(r"E:\Data Science Lecture\DataScience_Project\Ratings.csv")
-user=pd.read_csv(r"E:\Data Science Lecture\DataScience_Project\Users.csv")
+books=pd.read_csv(r"Books.csv")
+ratings=pd.read_csv(r"Ratings.csv")
+user=pd.read_csv(r"Users.csv")
 
 #analysis of data
 print(books.isnull().sum());
